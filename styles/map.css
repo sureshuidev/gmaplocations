@@ -19,7 +19,7 @@ body {
 }
 .page-section {
 	width: 100%;
-	min-height: 460px;
+	min-height: 690px;
 	padding: 50px 0;
 	border-bottom: 10px solid #fff;
 }
@@ -42,23 +42,24 @@ body {
 	font-size: 1.5em;
 	font-weight: 250;
 	padding: 0px 0px;
-    margin: 30px;
+    margin: 50px;
     color: black;   
 }
 
 .page-section article {
     width: 650px;
-    height: 170px;
-    padding: 10px;
+    height: 150px;
+    padding: 0px 0px;
+    margin: 80px;
     background-color: darkgray;
     
 }
 
 
  #map {
-        margin: 20px;
-        height: 320px;
-        width: 720px;
+        margin: 40px;
+        height: 420px;
+        width: 920px;
       }
  
 @media (min-width: 768px) {
